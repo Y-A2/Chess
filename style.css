@@ -1,0 +1,57 @@
+html {
+  background: url(images/boardBackground.jpg);
+}
+
+body {
+  width: 600px;
+  padding-left: 200px;
+  padding-right: 150px;
+  padding-top: 20px;
+  background: rgb(255, 255, 255, 0.9);
+  margin: 0px auto;
+}
+
+h1 {
+  background: rgb(60, 60, 60);
+  color: white;
+  border-radius: 20px;
+  font-family: "Kavivanar";
+    text-align: center;
+    letter-spacing: 4px;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+
+
+.center, h2 {
+  text-align: center;
+  font-family: "Kavivanar";
+  
+  
+}
+
+p {
+    font-family: "Kavivanar";
+    letter-spacing: 0.5px;
+}
+.p {
+ font-style: italic;
+}
+
+#orange {
+  color: orangered;
+  font-variant: small-caps;
+}
+
+
+#red {
+  color: red;
+  font-variant: small-caps;
+}
+
+#blue {
+  color: blue;
+  font-variant: small-caps;
+}
